@@ -1,6 +1,5 @@
 Subject Tracking & Joint Detection code explanation https://youtu.be/2Jsf8_5vq1Y
-
-https://youtu.be/CdcQQTi3PZU
+(Older version https://youtu.be/CdcQQTi3PZU )
 
 老搖滾智慧養老管理服務輔助簡介 (Intelligent system to support elderly care management and service) https://youtu.be/YQCuMCNAsQU
 
